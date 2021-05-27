@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d6171c45.chunk.css",
+    "main.js": "/portfolio/static/js/main.9dec23bc.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9dec23bc.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0b765b6c.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0b765b6c.js.map",
+    "static/css/2.dd8ad4bb.chunk.css": "/portfolio/static/css/2.dd8ad4bb.chunk.css",
+    "static/js/2.fcb36aaf.chunk.js": "/portfolio/static/js/2.fcb36aaf.chunk.js",
+    "static/js/2.fcb36aaf.chunk.js.map": "/portfolio/static/js/2.fcb36aaf.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.dc77e09931be60e0d639e98a83b499f1.js": "/portfolio/precache-manifest.dc77e09931be60e0d639e98a83b499f1.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.dd8ad4bb.chunk.css.map": "/portfolio/static/css/2.dd8ad4bb.chunk.css.map",
+    "static/css/main.d6171c45.chunk.css.map": "/portfolio/static/css/main.d6171c45.chunk.css.map",
+    "static/js/2.fcb36aaf.chunk.js.LICENSE.txt": "/portfolio/static/js/2.fcb36aaf.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/portfolio/static/media/arrow.e2e31208.svg",
+    "static/media/aws.svg": "/portfolio/static/media/aws.9a8d4c79.svg",
+    "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.2f571c9e.svg",
+    "static/media/cloudflare.svg": "/portfolio/static/media/cloudflare.17b66214.svg",
+    "static/media/devops.svg": "/portfolio/static/media/devops.e67644d2.svg",
+    "static/media/docker.svg": "/portfolio/static/media/docker.d3430b8b.svg",
+    "static/media/golang.svg": "/portfolio/static/media/golang.14e869f7.svg",
+    "static/media/html5.svg": "/portfolio/static/media/html5.9ea30473.svg",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.f6d0312a.svg",
+    "static/media/mobile-close.svg": "/portfolio/static/media/mobile-close.858fbaaa.svg",
+    "static/media/mobile-menu.svg": "/portfolio/static/media/mobile-menu.8608ac63.svg",
+    "static/media/mongodb.svg": "/portfolio/static/media/mongodb.d571053a.svg",
+    "static/media/mysql.svg": "/portfolio/static/media/mysql.b04e488e.svg",
+    "static/media/nginx.svg": "/portfolio/static/media/nginx.30808c3e.svg",
+    "static/media/puppet.svg": "/portfolio/static/media/puppet.0b452456.svg",
+    "static/media/python-3.svg": "/portfolio/static/media/python-3.53bff15d.svg",
+    "static/media/talha-anis.png": "/portfolio/static/media/talha-anis.f6672494.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b765b6c.js",
+    "static/css/2.dd8ad4bb.chunk.css",
+    "static/js/2.fcb36aaf.chunk.js",
+    "static/css/main.d6171c45.chunk.css",
+    "static/js/main.9dec23bc.chunk.js"
+  ]
+}
